@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(
+        to right top,
+        #051937,
+        #004d7a,
+        #008793,
+        #00bf72,
+        #a8eb12
+    );
+}
+
+button {
+    background-image: linear-gradient(
+        to right top,
+        #051937,
+        #004d7a,
+        #008793,
+        #00bf72,
+        #a8eb12
+    );
+}
+
+.button-d {
+    border-radius: 3px;
+    width: 150px;
+    height: 30px;
+    text-decoration: none;
+    background-image: linear-gradient(
+        to right top,
+        #051937,
+        #004d7a,
+        #008793,
+        #00bf72,
+        #a8eb12
+    );
+    cursor: pointer;
+}
